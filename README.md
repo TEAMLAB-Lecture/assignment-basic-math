@@ -5,7 +5,9 @@
 본 과제에서는 기초적인 list와 변수 사용법을 학습합니다. 본 과제에서 풀어야 할 문제는 아래 4가지가 있습니다.
 
 ## 숙제 다운로드 방법
+
 1. 아래링크를 클릭하여 숙제 github repository를 복사함
+   [https://classroom.github.com/a/xBb9wO1F](https://classroom.github.com/a/xBb9wO1F)
 2. 아래 코드를 사용하여 숙제 코드 github repository를 자신의 컴퓨터로 클론함
     ```
     git clone <레포지토리 URL>
